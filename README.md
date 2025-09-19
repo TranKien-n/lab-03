@@ -3,6 +3,8 @@
 ## References and Resources
 
 List any resources used here, or simply put `N/A` if not applicable.
+stackoverflow.com
+w3schools.com
 
 ## Verbal Collaboration
 
